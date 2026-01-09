@@ -1,0 +1,132 @@
+?? CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES
+IAM Studio - Inteligencia Artificial & Marketing
+
+CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES
+Que celebran por una parte IAM Studio, representado por [Nombre completo del representante legal], a quien en lo sucesivo se le denominará "EL PRESTADOR", y por la otra [Nombre completo del cliente / empresa], representado por [Nombre del representante], a quien en lo sucesivo se le denominará "EL CLIENTE"; ambos conjuntamente denominados "LAS PARTES", al tenor de las siguientes declaraciones y cláusulas:
+
+?? DECLARACIONES
+I. Declara EL PRESTADOR que:
+a) Es un estudio dedicado a servicios de inteligencia artificial, automatización, ciencia de datos, desarrollo de sistemas y marketing digital.
+b) Cuenta con la capacidad técnica, profesional y operativa para prestar los servicios objeto de este contrato.
+c) Señala como domicilio para efectos del presente contrato: [Dirección].
+II. Declara EL CLIENTE que:
+a) Cuenta con facultades suficientes para celebrar este contrato.
+b) Está interesado en contratar los servicios profesionales de EL PRESTADOR.
+c) Señala como domicilio: [Dirección].
+III. Declaran LAS PARTES que:
+Se reconocen mutuamente la personalidad con la que comparecen y su capacidad legal para obligarse.
+
+?? CLÁUSULAS
+
+PRIMERA. OBJETO DEL CONTRATO
+EL PRESTADOR se obliga a proporcionar a EL CLIENTE los servicios de:
+?? [Describir claramente: desarrollo de agente IA, automatizaciones, dashboards, marketing, soporte mensual, etc.]
+Los alcances específicos, entregables y tiempos se detallan en el ANEXO A, el cual forma parte integral del presente contrato.
+
+SEGUNDA. MODALIDAD DEL SERVICIO
+? Proyecto único
+? Contrato anual con pagos mensuales
+? Servicio continuo / suscripción
+(Marcar lo que aplique y describirlo en Anexo A)
+
+TERCERA. VIGENCIA
+El presente contrato tendrá una vigencia de:
+* Inicio: [Fecha]
+* Término: [Fecha]
+En contratos anuales, se renovará automáticamente salvo notificación por escrito con 30 días de anticipación.
+
+CUARTA. HONORARIOS Y FORMA DE PAGO
+EL CLIENTE pagará a EL PRESTADOR:
+?? Monto: $[Cantidad] MXN
+?? Modalidad:
+? Mensual
+? Por proyecto
+? Por fases
+El pago se realizará vía: [transferencia / depósito / efectivo / factura] dentro de los primeros [5/10] días de cada mes.
+El retraso mayor a 10 días faculta a EL PRESTADOR a suspender servicios sin responsabilidad.
+
+QUINTA. OBLIGACIONES DEL PRESTADOR
+a) Ejecutar los servicios conforme a buenas prácticas profesionales.
+b) Mantener comunicación periódica.
+c) Entregar los productos acordados.
+d) Guardar confidencialidad.
+e) No subcontratar sin autorización escrita.
+
+SEXTA. OBLIGACIONES DEL CLIENTE
+a) Proporcionar información veraz y oportuna.
+b) Realizar los pagos puntualmente.
+c) Designar un enlace responsable.
+d) No exigir alcances no contemplados.
+e) Respetar la propiedad intelectual.
+
+SÉPTIMA. PROPIEDAD INTELECTUAL
+Salvo pacto expreso:
+* Los desarrollos personalizados serán propiedad de EL CLIENTE una vez cubiertos los pagos.
+* EL PRESTADOR conserva derechos sobre:
+o Frameworks
+o Plantillas
+o Metodologías
+o Componentes reutilizables
+o Modelos base
+EL PRESTADOR podrá mostrar el proyecto como caso de éxito sin revelar información sensible.
+
+OCTAVA. CONFIDENCIALIDAD
+Ambas partes se obligan a no divulgar información técnica, comercial, estratégica o de datos personales, durante la vigencia del contrato y hasta 5 años después de su terminación.
+
+NOVENA. ALCANCES Y LIMITACIONES
+EL PRESTADOR no garantiza:
+* Resultados financieros específicos
+* Incremento de ventas
+* Resultados clínicos
+* Precisión absoluta de sistemas IA
+Los sistemas se consideran herramientas de apoyo, no sustitutos de juicio profesional.
+
+DÉCIMA. SOPORTE Y MANTENIMIENTO (si aplica)
+El soporte cubre:
+* Ajustes menores
+* Correcciones
+* Optimización básica
+No incluye nuevos módulos o desarrollos mayores, que serán cotizados por separado.
+
+DÉCIMA PRIMERA. TERMINACIÓN ANTICIPADA
+Cualquiera de las partes podrá dar por terminado el contrato:
+a) Por incumplimiento.
+b) Por mutuo acuerdo.
+c) Por aviso escrito con 30 días.
+Los pagos realizados no son reembolsables.
+
+DÉCIMA SEGUNDA. RESPONSABILIDAD
+EL PRESTADOR no será responsable por:
+* Mal uso de sistemas
+* Decisiones tomadas por EL CLIENTE
+* Caídas de plataformas externas
+* Daños indirectos o lucro cesante
+
+DÉCIMA TERCERA. JURISDICCIÓN
+Para la interpretación del presente contrato, LAS PARTES se someten a las leyes y tribunales de [Estado, país], renunciando a cualquier otro fuero.
+
+DÉCIMA CUARTA. ACEPTACIÓN
+Leído que fue el presente contrato, ambas partes lo firman de conformidad en dos ejemplares.
+
+?? FIRMAS
+EL PRESTADOR
+IAM Studio
+Nombre: __________________________
+Firma: ___________________________
+EL CLIENTE
+Nombre: __________________________
+Empresa: ________________________
+Firma: ___________________________
+Fecha: ___________________________
+
+?? ANEXO A - DESCRIPCIÓN DEL SERVICIO
+(Aquí va lo que tú o tu equipo copiarán y pegarán en cada cliente)
+* Alcance
+* Entregables
+* Herramientas
+* Tiempos
+* Responsables
+* Indicadores
+* Soporte incluido
+* Exclusiones
+

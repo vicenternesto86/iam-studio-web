@@ -1,0 +1,171 @@
+?? CATÁLOGO INTEGRAL DE SERVICIOS
+IAM Studio - Tu éxito es nuestro éxito
+IAM Studio es un estudio de innovación que integra Inteligencia Artificial, automatización, ciencia de datos y marketing digital, enfocado especialmente en salud, educación, empresas y gobierno, pero escalable a cualquier sector.
+Trabajamos sobre 3 pilares:
+1. ?? Consultoría y Soluciones en IA
+2. ?? Automatización, Software y Sistemas
+3. ?? Marketing Digital, Contenidos y Marca
+
+?? I. PRODUCTOS Y SERVICIOS (PAGO POR PROYECTO)
+?? A. INTELIGENCIA ARTIFICIAL Y DATOS
+1. Desarrollo de Agentes IA personalizados
+(Chatbots web, WhatsApp, sistemas internos, voz, asistentes ejecutivos, educativos o clínicos)
+Incluye:
+* Diseño del rol del agente
+* Entrenamiento con documentos propios
+* Conexión a APIs, Drive, Notion, Sheets, bases de datos
+* Panel de control básico
+* Seguridad y control de usuarios
+?? Precio:
+* Básico: $6,000 - $10,000 MXN
+* Profesional: $12,000 - $25,000 MXN
+* Empresarial: $30,000 - $80,000 MXN
+
+2. Sistemas de análisis de datos y dashboards inteligentes
+(Salud, ventas, educación, productividad, investigación)
+Incluye:
+* Limpieza y estructuración de datos
+* Indicadores clave
+* Dashboard interactivo
+* Módulos de análisis con IA
+* Reportes automáticos
+?? Precio:
+* Básico: $8,000 - $15,000 MXN
+* Avanzado: $18,000 - $40,000 MXN
+* Institucional / gobierno: $50,000 - $150,000 MXN
+
+3. Proyectos de IA aplicada
+(Ej. clasificación de imágenes médicas, predicción, segmentación, sistemas expertos, modelos personalizados)
+Incluye:
+* Diseño metodológico
+* Dataset real o simulado
+* Entrenamiento de modelos
+* Prototipo funcional
+* Documentación técnica
+?? Precio:
+* Prototipo: $15,000 - $40,000 MXN
+* Sistema funcional: $50,000 - $180,000 MXN
+* Proyecto institucional o I+D: desde $200,000 MXN
+
+?? B. AUTOMATIZACIÓN Y SOFTWARE
+4. Automatización de procesos (n8n, Make, Zapier, APIs)
+(Ej. WhatsApp, citas, reportes, ventas, redes, formularios, notificaciones, flujos internos)
+Incluye:
+* Mapeo de procesos
+* Diseño del flujo
+* Integración de plataformas
+* Pruebas
+* Documentación
+?? Precio:
+* Automatización simple: $3,000 - $7,000 MXN
+* Flujo empresarial: $8,000 - $25,000 MXN
+* Sistema integral: $30,000 - $90,000 MXN
+
+5. Desarrollo de sistemas y apps
+(Webs, paneles administrativos, plataformas internas, MVPs)
+Incluye:
+* UX básica
+* Backend y frontend
+* Base de datos
+* Seguridad
+* Despliegue
+?? Precio:
+* Landing + sistema simple: $10,000 - $25,000 MXN
+* Plataforma funcional: $30,000 - $90,000 MXN
+* Software a medida: desde $120,000 MXN
+
+?? C. MARKETING DIGITAL Y CONTENIDOS
+6. Branding, identidad y activos digitales
+* Nombre de marca
+* Logo
+* Colores
+* Manual básico
+* Plantillas gráficas
+?? Precio:
+$5,000 - $18,000 MXN
+
+7. Contenidos con IA
+* Imágenes profesionales
+* Videos con avatares
+* Voces IA
+* Reels, anuncios, cursos, presentaciones
+?? Precio:
+* Paquete básico: $2,000 - $5,000 MXN
+* Paquete profesional: $6,000 - $15,000 MXN
+* Producción mensual: desde $8,000 MXN
+
+8. Marketing automatizado
+* Embudos
+* WhatsApp bots
+* Publicaciones automáticas
+* CRM
+* Email marketing
+* Análisis de campañas
+?? Precio:
+* Implementación: $6,000 - $25,000 MXN
+* Sistema completo: $30,000 - $120,000 MXN
+
+?? II. CONTRATOS ANUALES (PAGO MENSUAL)
+Aquí está la parte más fuerte de IAM Studio: ingreso recurrente.
+
+?? PLAN START
+Ideal para profesionistas, consultorios, pequeños negocios
+Incluye:
+* 1 agente IA
+* 1 automatización activa
+* Soporte técnico
+* 4 contenidos mensuales
+* Ajustes mensuales
+* Reporte de desempeño
+?? $1,200 - $2,000 MXN / mes
+?? Contrato anual
+
+?? PLAN PRO
+Ideal para clínicas, escuelas, empresas medianas
+Incluye:
+* Hasta 3 agentes IA
+* Automatizaciones ilimitadas moderadas
+* Dashboard básico
+* WhatsApp bot
+* Soporte prioritario
+* 8-12 contenidos mensuales
+* Optimización continua
+?? $3,500 - $7,000 MXN / mes
+?? Contrato anual
+
+?? PLAN BUSINESS / SALUD
+Ideal para hospitales, redes, franquicias, instituciones
+Incluye:
+* Ecosistema IA completo
+* Dashboards avanzados
+* Sistemas internos
+* Automatización total de procesos
+* Capacitación mensual
+* Soporte dedicado
+* Reportes ejecutivos
+?? $9,000 - $18,000 MXN / mes
+?? Contrato anual
+
+?? PLAN INSTITUCIONAL / GOBIERNO
+Transformación digital con IA
+Incluye:
+* Desarrollo continuo
+* Módulos a medida
+* Análisis de datos
+* Sistemas institucionales
+* Soporte técnico
+* Capacitación formal
+* Mesa de innovación permanente
+?? $25,000 - $80,000 MXN / mes
+?? Contratos anuales o multianuales
+
+?? III. SERVICIOS PREMIUM
+* ?? Chief AI Officer externo
+? $12,000 - $40,000 MXN / mes
+* ?? Laboratorio de IA aplicada en salud
+? desde $30,000 MXN / mes
+* ?? Academia IAM Studio
+? Programas de formación para empresas, médicos, docentes, gobiernos
+* ?? Incubación de productos tecnológicos
+? Revenue share o contratos híbridos
+
